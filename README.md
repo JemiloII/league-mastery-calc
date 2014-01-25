@@ -18,6 +18,7 @@ Contributors
 ------------
 
 * [@wonderfulheaven](https://twitter.com/wonderfulheaven) - Season 3 data update
+* [@jemiloii](https://twitter.com/jemiloii) - Season 4 data update
 
 License
 -------
